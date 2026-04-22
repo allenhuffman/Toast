@@ -20,7 +20,7 @@ I posted a demo of the mapgraph on YouTube;
 
 https://youtu.be/kC52nWqZxzs
 
-# Permission from Vaugn Cato
+# Permission from Vaughn Cato
 In a comment on Facebook, Vaughn Cato gave permission for me to distribute his source code. (See screenshot.)
 
 # TBC
