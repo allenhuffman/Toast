@@ -1,0 +1,8 @@
+Here is the latest version of the maze program.  I think that it now
+always displays the walls correctly, but let me know if you find a problem.
+
+I have also included a demo of the bitmap scaling routine.  Just run
+mapgraph to try it out.
+
+  Until Later,
+  Vaughn Cato (gcato@st6000.sct.edu)
